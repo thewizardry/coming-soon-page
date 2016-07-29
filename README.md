@@ -11,7 +11,7 @@ Run local preview server:
     
     gulp
     
-When done editing, build for production;
+When done editing, build for production:
     
     gulp build
     
