@@ -1,0 +1,25 @@
+/* =======================
+   Base
+   ======================= */
+
+// Base html elements styling
+
+body {
+	font-family: $font-stack;
+	color: $text-color;
+	background: $body-bg;
+}
+
+a {
+	color: $link-color;
+	&:hover {color: $link-hover-color;}
+	&:focus, &:active {color: $link-hover-color;}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: $title-color;
+}
+
+p {
+	color: $text-color;
+}

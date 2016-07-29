@@ -1,0 +1,25 @@
+/* =======================
+   Modules
+   ======================= */
+
+// Modules are object-oriented rules that aims to create stand-alone working elements, independent from the container
+
+body {
+	background: #fff;
+}
+
+.coming-soon {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.brand-logo {
+	background: url(../images/logo.png) no-repeat center center;
+}
+
+.brand-payoff {
+	
+}
