@@ -1,7 +1,7 @@
 # Coming Soon Page
 The simplest coming soon page.
 
-# usage
+# Usage
     
 Install:
     
